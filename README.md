@@ -87,13 +87,3 @@ npm run dev
 # Deployment (Opsional)
 # ------------------------------------------------------------
 
-# Frontend:
-# - Vercel (auto-deploy React)
-
-# Backend:
-# - Railway / Render / Heroku
-# - Pastikan PostgreSQL aktif dan URL-nya disimpan di .env
-
-
-# MIT License
-# Koling Dev – Tugas Besar Pemrograman Web 2024/2025
