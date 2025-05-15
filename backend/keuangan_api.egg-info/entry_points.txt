@@ -1,0 +1,2 @@
+[console_scripts]
+initialize_keuangan_pribadi_db = keuangan_api.scripts.initializedb:main
